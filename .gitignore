@@ -1,4 +1,4 @@
 *.js
-*.js.map
 typings/
 node_modules/
+.vscode/
