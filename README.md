@@ -1,4 +1,4 @@
-"# TypeScriptHapiApp" 
+# TypeScriptHapiApp
 This is a TypeScript Hapi App example with a transpile target of ES2015 (ES6).
 
 ## Install Steps
